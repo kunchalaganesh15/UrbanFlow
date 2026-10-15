@@ -1,0 +1,9 @@
+- [x] Build five UrbanFlow pages with honest live-data states and polished control-center design.
+- [x] Implement local Python video analysis API, tracking, signals, emergency queue, and streaming.
+- [x] Document Windows setup and verify frontend and backend behavior; native inference requires local installation.
+- [x] Restyle the five-view interface with a light theme, animated 3D scenes, and a 3D hero; keep the 3D button motion.
+- [x] Add a labelled 3D traffic simulation (car following, turns, adaptive/fixed signals, ambulance preemption) alongside live detections, with unit tests.
+- [x] Verify emergency-vehicle confirmation and first-come-first-served signal priority in logic tests; real-model inference requires a custom trained model and local environment.
+- [x] Add privacy and terms prototype pages and replace the unrelated favicon.
+- [ ] Connect a custom domain (blocked: no domain supplied) and confirm published badge removal (blocked: editor role on Pro plan or higher). Do not publish until complete.
+- [ ] Replace legal drafts with operator-specific terms (blocked: organization identity, contact, retention, and jurisdiction not supplied).
