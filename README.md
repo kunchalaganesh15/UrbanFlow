@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UrbanFlow — Intelligent Traffic Optimization
 
 UrbanFlow is a React/TanStack Start control room paired with a **locally run Python FastAPI computer-vision engine**. Counts, classifications, tracked IDs, and digital-twin vehicles come from uploaded video processed by Ultralytics YOLO11 and ByteTrack; no sample vehicle data is injected. The website alone cannot analyze video: start the Python service on the same computer as the browser. The Lovable-hosted preview shows the interface but cannot reach your computer's `localhost:8000` service from another visitor's browser.
@@ -66,3 +67,7 @@ Do not publish yet. Connect the intended custom domain in Project Settings → P
 3. The first **Start analysis** downloads the YOLO model and can take a minute or two. The site stays connected meanwhile.
 4. Using another machine or port? Set `VITE_TRAFFIC_API_URL` for the frontend and `FRONTEND_ORIGIN` for the backend (see `.env.example`).
 5. The 3D simulation works with no engine at all.
+=======
+# UrbanFlow
+Intelligent Traffic Optimization Framework for Adaptive Signal Control and Emergency Response Using YOLO-Based Computer Vision.
+>>>>>>> 23e2b0e10ce55f4cf0956e29c29c7132b1d8605c
